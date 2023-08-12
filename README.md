@@ -1,3 +1,3 @@
-# OIBSIP
-JAVA DEVELOPMENT TASKS
+Projects in JAVA
+
 
