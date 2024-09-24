@@ -1,4 +1,4 @@
-//TASK 2 OIBSIP
+//NumberGuessingGame
 import java.util.Random;
 import javax.swing.JOptionPane;
 
